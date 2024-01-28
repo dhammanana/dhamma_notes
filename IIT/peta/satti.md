@@ -1,0 +1,2 @@
+**Sattiloma-peta (spear hair-peta)** "...I saw a man with body-hairs of spears moving in the air. Those spears, were rising up, fell upon his body while he cried out loud..."
+	3. The cause: this being used to be a deer hunter (māgavika) in Rāgaha city. In the commentary, "This person carried a deer and a spear to a forest. When other deers came close, he stabbed them with the spear. This became his nimitta."

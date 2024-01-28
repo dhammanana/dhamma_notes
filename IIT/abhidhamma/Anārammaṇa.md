@@ -1,0 +1,2 @@
+>katame dhammā sanidassanā? rūpāyatanaṃ – ime dhammā sanidassanā.
+>katame dhammā anidassanā? cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ, vedanākkhandho…pe… viññāṇakkhandho, yañca rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ, asaṅkhatā ca dhātu – ime dhammā anidassanā.

@@ -1,0 +1,17 @@
+**Aṭṭhisaṅkhasika-peta (the skeleton-peta):** 
+### story
+While the Buddha was staying in the bamboo grove (Veḷuvana), the squirrel sanctuary in Rājagaha city, venerable Lakkhaṇa and venerable Mahāmoggallāna were staying on Gijjhakūṭa mountain. At one time, venerable Mahāmoggallāna got dressed in the morning, took the bowl and outer robe, and approached venerable Lakkhaṇa, saying, 'Friend, shall we enter Rājagaha city for alms-food?' Venerable Lakkhaṇa replied, 'Yes, friend.' While climbing down from Gijjhakūṭa mountain at a certain place, venerable Mahāmoggallāna smiled. After seeing the smile, venerable Lakkhaṇa asked, 'Friend Moggallāna, what is the reason? What is the cause for your displaying a smile?' Mahāmoggallāna responded, 'This is not the proper time to ask this question, friend Lakkhaṇa. Please ask me in front of the Buddha.'
+
+After finishing the alms-round and the meal, both of them approached the Buddha, paid respect, and sat on one side. Venerable Lakkhaṇa, who was sitting there, asked venerable Mahāmoggallāna the same question. Venerable Mahāmoggallāna responded, 'While climbing down Gijjhakūṭa mountain, I saw a skeleton (a chain of bones) moving in the sky. Vultures, crows, and hawks, chasing it, were pecking at it between ribs, stabbing it, tearing it apart while the skeleton peta was crying out loud. Friend Lakkhaṇa, the thought occurred to me: "It was amazing indeed, it was marvelous indeed that such a being exists, such a demon comes into being, and a being can possess such a form.
+
+The Buddha then addressed the monks, saying, 'Oh, monks, disciples who have such eyes and knowledge know, see, and witness such a being. I had seen this being (peta) before, but I did not tell. If I told about it, others would not have believed me. It would have been harmful and caused suffering for them for a long time.'"
+
+### The cause: 
+the Buddha explained that **this being used to be a cow butcher (goghātaka)**  in Rājagaha city. As a result of that karma, he underwent boiling in hell for many years, hundreds of years, and even thousands of years. Due to the residue effects of this kamma action, he was experiencing suffering in his present form.
+Having seen such a being undergoing such a suffering, he should have compassion? Why did venerable Moggallāna smile?
+
+1. **Attano sampattiṃ samanussaraṇato** - Because of recalling one's own attainment. Upon seeing the peta, the elder thought, "I am free from such a form, which should only be obtained by the one who does not realize the truth. This is a gain for me, a great gain for me."
+
+2. **Buddhañāṇassa sampattiṃ samanussaraṇato** - because of recalling the attainment of the Buddha's knowledge. Upon seeing the peta, the elder thought "Oh Wow! the attainment of the Buddha's knowledge. The Buddha expounded 'The result of kamma should not be pondered too much; it is unthinkable (acinteyya).' The Buddha will expound Dhamma by clarifying the kamma of this peta. The nature of reality (dhammadhātu) is wellpenetrated by the Buddha."
+
+Why did Venerable Lakkhaṇa not see the peta? Did he not possess the divine eye? Yes, he did possess the divine eye. However, Venerable Moggallāna was reflecting; therefore, he saw the peta. Since Venerable Lakkhaṇa did not reflect, he did not see the peta.

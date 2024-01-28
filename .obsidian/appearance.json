@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "baseFontSize": 16,
+  "cssTheme": "Things",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "notation-colour-blocks",
+    "mysnippets"
+  ],
+  "showViewHeader": true
+}

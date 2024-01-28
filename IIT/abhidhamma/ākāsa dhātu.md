@@ -1,0 +1,3 @@
+Ākāsa dhātu is divided into two types: **ajaṭākāsa** and **paricchedākāsa** (**paricchedāvakāsa**). 
+**Ajaṭākāsa** refers to the *infinite space* in which all animate and inanimate things exist. 
+According to Theravada, *ajaṭākāsa has no limitations or borders* where it ends and is sometimes referred to as the "hollow of the world." On the other hand, paricchedāvakāsa is the space between rūpakalāpas (material particles) in solid objects or any other object. **paricchedākāsa** is considered one of the twenty-eight corporealities. While in the ultimate sense, ākāsadhātu does not have its own arising, it is still regarded as corporeality because space is necessary to keep different rūpa kalāpas separate and unmixed.

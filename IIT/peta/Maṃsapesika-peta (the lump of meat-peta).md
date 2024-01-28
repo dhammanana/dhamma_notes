@@ -1,0 +1,3 @@
+"Friend, while climbing down the Gijjhakūṭa mountain, I saw a lump of meat moving in the sky. Vultures, crows, and hawks, chasing it, were pecking at it between ribs, stabbing it, tearing it apart, and the lump of meat - peta was crying out loud.
+
+The cause: This peta used to be a cow butcher in Rājagaha city. In the commentary, "this peta earned a living for many years by killing cows, drying them and selling the dried meat. This became his nimitta (sign)"

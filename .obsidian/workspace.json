@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "1156f12adcd99963",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd68830354eb2469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ce9e0918bbfe3f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discussion Group/Visudhimagga.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a57c3aacca112d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IIT/khuddhaka/suttanta  exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96d0e606f286cafc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/English Vocab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "389693cff8a75685",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc11d326bee110ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d250dd4ceff0c9e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4f80373d2408a5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cheatsheet",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0528ed3ded24d34d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1b073ff24e8505ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "816a6a52c9295811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3270ef00ca088bf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Discussion Group/Visudhimagga.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b64cdd5180996bf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Discussion Group/Visudhimagga.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b9e28ae8f1f371cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a69c06f8e50c9d77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Discussion Group/Visudhimagga.md"
+              }
+            }
+          },
+          {
+            "id": "b93796f4ba4d319d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "76273fbb2478c9b3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8fd122680ae10c8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Copilot Chat": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "8ce9e0918bbfe3f5",
+  "lastOpenFiles": [
+    "IIT/khuddhaka/suttanta  exam.md",
+    "IIT/khuddhaka/attachments/Screenshot 2024-01-27 at 21.42.59.png",
+    "IIT/khuddhaka/attachments",
+    "Discussion Group/Visudhimagga.md",
+    "IIT/abhidhamma/Rūpa.md",
+    "Discussion Group",
+    "IIT/abhidhamma/lakkhaṇarūpa.md",
+    "IIT/abhidhamma/vikāra rūpa.md",
+    "abhidhamma/abhidhamma chapter 3.md",
+    "English/English Vocab.md",
+    "IIT/khandaka vinaya/Pattavagga - Bowl chapter.md",
+    "IIT/khuddhaka/Dāna.md",
+    "IIT/abhidhamma/exam note.md",
+    "IIT/abhidhamma/Rūpa Classification.md",
+    "IIT/abhidhamma/attachments/PHOTO-2024-01-25-18-17-40.jpg",
+    "IIT/abhidhamma/attachments/PHOTO-2024-01-25-18-03-36.jpg",
+    "IIT/abhidhamma/attachments/Pasted image 20240125142503.png",
+    "Excalidraw/samsedaja 2024-01-16 15.53.13.excalidraw.md",
+    "IIT/pali/niruttidīpanī.md",
+    "IIT/khandaka vinaya/Cīvara Robe chapter.md",
+    "IIT/pali/recite declension.md",
+    "IIT/khandaka vinaya/Untitled.md",
+    "IIT/khandaka vinaya/khandhaka.md",
+    "IIT/khandaka vinaya/attachments/PHOTO-2024-01-23-16-44-07.jpg",
+    "IIT/abhidhamma/attachments/WhatsApp Image 2024-01-21 at 16.37.51.jpeg",
+    "IIT/abhidhamma/attachments/WhatsApp Image 2024-01-21 at 16.37.51 (1).jpeg",
+    "IIT/abhidhamma/attachments/WhatsApp Image 2024-01-21 at 16.37.50.jpeg",
+    "IIT/abhidhamma/attachments/WhatsApp Image 2024-01-21 at 16.37.50 (1).jpeg",
+    "IIT/abhidhamma/attachments/WhatsApp Image 2024-01-21 at 16.37.49.jpeg",
+    "IIT/abhidhamma/Untitled.md",
+    "IIT/abhidhamma/other notes.md",
+    "IIT/abhidhamma/Abhidhamma.md",
+    "IIT/pali/Translate Aṅguttara.md",
+    "English",
+    "IIT/vibhaṅga vinaya/11. Bhūtagāma Sikkhāpadaṃ.md",
+    "IIT/vibhaṅga vinaya/Vibhaṅga.md",
+    "IIT/peta/Tirokuṭṭa or tirokuḍḍa.md",
+    "IIT/pali/dhammapada.md",
+    "IIT/khandaka vinaya/attachments/02 Bowl Size (Vimativinodani).pdf",
+    "IIT/First Year/Abhidhamma/attachments",
+    "IIT/First Year/Abhidhamma",
+    "IIT/First Year",
+    "notes/monthly",
+    "notes/thoughts",
+    "notes/typography",
+    "Untitled.canvas",
+    "test canvas.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}

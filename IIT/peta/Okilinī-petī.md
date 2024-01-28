@@ -1,0 +1,5 @@
+**Okilinī-petī (the scalding female petī )**: "...I saw a woman who was scorched with burning charcoals, exuding the moisture (pestering) and oozing as she moved in the sky, crying out loud..." 
+
+In the commentary, it is said that she **lay on a bed of burning charcoal**, shaking and turning around as she was cooked; hence, she was **scorched (uppakkā).** Her body was subjected to intense heat; therefore, her body was pestering (yellow-colored liquid flowed from her body). The hot charcoals fell from below, on both sides, and above.
+
+**The cause:** this petī used to be the **chief queen of the king of Kaliṅga**. She out of jealousy poured a pot of charcoals over a king's co-wife/ consort (sapattī). In the commentary, "A dancer of the king placed a fireplace close by, wiped herself with water, and removed sweat with her hand. The king was pleased and talked with her. Due to jealousy, the chief queen could not tolerate the sight. Not long after the king left, she took a fire-stove and poured it on the dancer."

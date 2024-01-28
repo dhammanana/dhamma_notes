@@ -1,0 +1,2 @@
+"...I saw a man with body-hairs of swords moving in the air. Those swords, were rising up, fell upon his body while he cried out loud..."
+**The cause:** this being used to be a pig butcher (sūkarika) in Rājagaha city. In the commentary, "This person earned a living by killing fat pigs with a sword for a long time. This became his nimitta."
